@@ -1,16 +1,15 @@
 # DashboardFest2Fun
 
 Click here to see the app alive: https://dashboardfest2fun-production.up.railway.app/trackingmap
-# Custom project from Hilla
+
 ## Overview
+This document provides a comprehensive technical overview of the FestFunDashboard system, a full-stack web application designed for real-time event tracking and analytics with wristband-based participant monitoring. The system supports geographical visualization, zone tracking, and statistical analysis of event data stored in AWS DynamoDB.
 
 Relevant source files
 - [pom.xml](https://github.com/pedroGEOGIScoding/FestFunDashboard/blob/595e08b2/pom.xml)
 - [src/main/frontend/views/@index.tsx](https://github.com/pedroGEOGIScoding/FestFunDashboard/blob/595e08b2/src/main/frontend/views/@index.tsx)
 - [src/main/java/com/pedro/apps/config/DynamoDBConfig.java](https://github.com/pedroGEOGIScoding/FestFunDashboard/blob/595e08b2/src/main/java/com/pedro/apps/config/DynamoDBConfig.java)
 - [src/main/java/com/pedro/apps/events/EventRecord.java](https://github.com/pedroGEOGIScoding/FestFunDashboard/blob/595e08b2/src/main/java/com/pedro/apps/events/EventRecord.java)
-
-This document provides a comprehensive technical overview of the FestFunDashboard system, a full-stack web application designed for real-time event tracking and analytics with wristband-based participant monitoring. The system supports geographical visualization, zone tracking, and statistical analysis of event data stored in AWS DynamoDB.
 
 For information about specific user interface components, see [User Interface Components](https://deepwiki.com/pedroGEOGIScoding/FestFunDashboard/3-user-interface-components). For backend service implementation details, see [Backend Services](https://deepwiki.com/pedroGEOGIScoding/FestFunDashboard/4-backend-services). For deployment and configuration specifics, see [Development Environment](https://deepwiki.com/pedroGEOGIScoding/FestFunDashboard/5-development-environment) and [Configuration](https://deepwiki.com/pedroGEOGIScoding/FestFunDashboard/6-configuration).
 
