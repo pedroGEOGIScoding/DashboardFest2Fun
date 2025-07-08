@@ -1,9 +1,9 @@
 # DashboardFest2Fun
 
-Click here to see the app alive: https://dashboardfest2fun-production.up.railway.app/
+Click here to see the app alive deployed in Railway.com: https://dashboardfest2fun-production.up.railway.app/
 
 ## Overview
-This document provides a comprehensive technical overview of the FestFunDashboard system, a full-stack web application designed for real-time event tracking and analytics with wristband-based participant monitoring. The system supports geographical visualization, zone tracking, and statistical analysis of event data stored in AWS DynamoDB.
+This document provides a comprehensive technical overview of the FestFunDashboard system, a full-stack web application designed for real-time event tracking and analytics with wristband-based participant monitoring. The system supports geographical visualization, zone tracking, and statistical analysis of event data stored in AWS DynamoDB. The real-data has been reduced for store-saving purposes until 336 operations.
 
 Relevant source files
 - [pom.xml](https://github.com/pedroGEOGIScoding/FestFunDashboard/blob/595e08b2/pom.xml)
